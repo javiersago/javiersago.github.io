@@ -1,8 +1,18 @@
+/* Tipografía */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+
 body {
-  background: #808080;
+	background-color: #972247;
+	color: white;
+	font-size: 16px;
 }
 
-p {
-  color: #000080;
+a {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration:none;
 }
-
